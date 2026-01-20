@@ -32,7 +32,7 @@
 
 <!-- Spotlight – Subtle & Professional -->
 <div align="center">
-  <h3>Current Focus</h3>
+  <h3 align="left">Current Focus</h3>
   <blockquote>
     <ul align="left">
       <li>Next.js 15 (App Router, Server Actions, Turbopack)</li>
