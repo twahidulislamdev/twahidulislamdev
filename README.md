@@ -1,210 +1,78 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" alt="Hi wave" />
+  <br><br>
+  
+  <!-- Social Badges - Centered and compact -->
+  <a href="https://fb.com/twahidulislamdev" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="28"/>
+  </a>
+  <a href="https://instagram.com/twahidulislamdev" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="28"/>
+  </a>
+  <a href="https://twitter.com/twahidulislam" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="28"/>
+  </a>
+  <a href="https://linkedin.com/in/twahidulislamdev-july2005" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/>
+  </a>
+  <a href="https://t.me/Twahidulislam" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="28"/>
+  </a>
+  <a href="mailto:twahid746@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="28"/>
+  </a>
+  
+  <br><br>
+  
+  <!-- Visitor badge -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=twahidulislamdev.twahidulislamdev" alt="Profile views" />
 </div>
 
-###
-###
+<!-- Main Heading -->
+<h1 align="center">Hi 👋, I'm Twahidul Islam</h1>
+
+<!-- About section - more engaging and concise -->
+<h3 align="center">A passionate <strong>MERN Stack Developer</strong> from Bangladesh 🚀</h3>
+
+<p align="center">
+  <strong>Building modern web apps</strong> with clean code and great user experience.<br>
+  Currently diving deeper into <strong>React</strong> & <strong>Next.js</strong> 🌱<br><br>
+  💬 Ask me about <strong>MERN stack, Python, full-stack development</strong><br>
+  ⚡ Fun fact: <em>I’m funny… at least my code thinks so 😂</em>
+</p>
+
+<!-- Tech Stack - better alignment + popular icons -->
+<h3 align="center">🛠 Languages & Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs,nodejs,express,mongodb,mysql,firebase,git,figma,androidstudio" alt="Tech Stack" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=python,vscode,github" alt="Extras" />
+</p>
+
+<!-- Stats section - more dynamic & attractive -->
+<h3 align="center">🔥 GitHub Stats</h3>
 
 <div align="center">
-  <a href="https://fb.com/twahidulislamdev" target="blank"
-    ><img align="center" />
-    <img
-      href="https://fb.com/twahidulislamdev"
-      target="_blank"
-      src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat"
-      height="25"
-      alt="facebook logo"
-    />
-  </a>
-  <a href="https://instagram.com/twahidulislamdev" target="blank"
-    ><img align="center" />
-    <img
-      href="https://instagram.com/twahidulislamdev"
-      target="_blank"
-      src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat"
-      height="25"
-      alt="instagram logo"
-    />
-  </a>
-  <a href="https://twitter.com/twahidulislam" target="blank"
-    ><img align="center" />
-    <img
-      href="https://twitter.com/twahidulislam"
-      target="_blank"
-      src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat"
-      height="25"
-      alt="twiter logo"
-    />
-  </a>
-  <a href="https://linkedin.com/in/twahidulislamdev-july2005" target="blank"
-    ><img align="center" />
-    <img
-      href="https://linkedin.com/in/twahidulislamdev-july2005"
-      target="_blank"
-      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat"
-      height="25"
-      alt="Linkedin logo"
-    />
-  </a>
-  <a href="https://t.me/Twahidulislam" target="blank"
-    ><img align="center" />
-    <img
-      href="https://t.me/Twahidulislam"
-      target="_blank"
-      src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat"
-      height="25"
-      alt="Telegram logo"
-    />
-  </a>
-  <a
-    href="https://mail.google.com/mail/u/0/?to=twahid746@gmail.com&fs=1&tf=cm"
-    target="blank"
-    ><img align="center" />
-    <img
-      href="https://mail.google.com/mail/u/0/?to=twahid746@gmail.com&fs=1&tf=cm"
-      target="_blank"
-      src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat"
-      height="25"
-      alt="gmail logo"
-    />
-  </a>
+  <!-- Streak (you already have it - kept) -->
+  <img src="https://streak-stats.demolab.com?user=twahidulislamdev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=10" height="180" alt="GitHub Streak" />
+  
+  <!-- Add these popular ones for more impact -->
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=twahidulislamdev&show_icons=true&theme=dark&hide_border=true&border_radius=10" alt="GitHub Stats" height="180" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=twahidulislamdev&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&border_radius=10" alt="Top Languages" height="180" />
 </div>
 
-###
-
+<!-- Optional: Add a trophy section for fun -->
+<h3 align="center">🏆 GitHub Trophies</h3>
 <div align="center">
-  <img
-    src="https://visitor-badge.laobi.icu/badge?page_id=twahidulislamdev.twahidulislamdev&"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=twahidulislamdev&theme=dark&no-frame=true&margin-w=15" alt="Trophies" />
 </div>
 
-###
-
-<h1 align="center">
-  Hi 👋, I'm Twahidul Islam
-</h1>
-
-###
-
-<h3 align="center">👩‍💻 About Me</h3>
-
-<h4 align="center">
-  A passionate MERN Stack Developer from Bangladesh.⚓⚓<br /><br />- 🔭 🌱 I’m currently learning **React, Next.js** <br/> <br>- 💬 Ask me about **MERN, Python** <br /> <br> -⚡
-  ⚡ Fun fact **I am funny**
-</h4>
-
-###
-<br/>
-
-<h3 align="center">🛠 Language and tools</h3>
-
-###
-
+<!-- Footer / Call to action -->
+<br>
 <div align="center">
-  <img
-    src="https://cdn.simpleicons.org/git/F05032"
-    height="40"
-    alt="git logo"
-  />
-  <img width="12" />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
-    height="40"
-    alt="figma logo"
-  />
-  <img width="12" />
-  <img
-    src="https://skillicons.dev/icons?i=html"
-    height="40"
-    alt="html5 logo"
-  />
-  <img width="12" />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-    height="40"
-    alt="css3 logo"
-  />
-  <img width="12" />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"
-    height="40"
-    alt="tailwindcss logo"
-  />
-  <img width="12" />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
-    height="40"
-    alt="bootstrap logo"
-  />
-  <img width="12" />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-    height="40"
-    alt="javascript logo"
-  />
-  <img width="12" />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-    height="40"
-    alt="react logo"
-  />
-  <img width="12" />
-  <img
-    src="https://skillicons.dev/icons?i=nextjs"
-    height="40"
-    alt="nextjs logo"
-  />
-  <img width="12" />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"
-    height="40"
-    alt="firebase logo"
-  />
-  <img width="12" />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-    height="40"
-    alt="nodejs logo"
-  />
-  <img width="12" />
-  <img
-    src="https://skillicons.dev/icons?i=express"
-    height="40"
-    alt="express logo"
-  />
-  <img width="12" />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-    height="40"
-    alt="mongodb logo"
-  />
-  <img width="12" />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-    height="40"
-    alt="mysql logo"
-  />
-  <img width="12" />
-  <img
-    src="https://cdn.simpleicons.org/android/3DDC84"
-    height="40"
-    alt="android logo"
-  />
+  <h3>Let's connect & build something awesome! 🚀</h3>
+  <p>Feel free to explore my repositories or drop a message — I'm always open to collaboration! 😄</p>
 </div>
-
-###
-
-<h3 align="center">🔥 My Stats :</h3>
-
-###
-
-<div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=twahidulislamdev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"
-    height="220"
-    alt="streak graph"
-  />
-</div>
-
-###
-###
