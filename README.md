@@ -1,19 +1,16 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" alt="Hi wave" />
-  <br><br>
-  
-  <!-- Social Badges - Centered and compact -->
+  <!-- Social Links - Professional style -->
+  <a href="https://www.linkedin.com/in/twahidulislamdev-july2005" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/>
+  </a>
+  <a href="https://twitter.com/twahidulislam" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="28"/>
+  </a>
   <a href="https://fb.com/twahidulislamdev" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="28"/>
   </a>
   <a href="https://instagram.com/twahidulislamdev" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="28"/>
-  </a>
-  <a href="https://twitter.com/twahidulislam" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="28"/>
-  </a>
-  <a href="https://linkedin.com/in/twahidulislamdev-july2005" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/>
   </a>
   <a href="https://t.me/Twahidulislam" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="28"/>
@@ -21,58 +18,60 @@
   <a href="mailto:twahid746@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="28"/>
   </a>
-  
+
   <br><br>
-  
-  <!-- Visitor badge -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=twahidulislamdev.twahidulislamdev" alt="Profile views" />
+
+  <!-- Visitor counter -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=twahidulislamdev.twahidulislamdev&right_color=gray&left_text=Profile%20Views" alt="Profile views"/>
 </div>
 
-<!-- Main Heading -->
-<h1 align="center">Hi 👋, I'm Twahidul Islam</h1>
-
-<!-- About section - more engaging and concise -->
-<h3 align="center">A passionate <strong>MERN Stack Developer</strong> from Bangladesh 🚀</h3>
+<h1 align="center">Twahidul Islam</h1>
+<h3 align="center">Full-Stack MERN Developer | Bangladesh</h3>
 
 <p align="center">
-  <strong>Building modern web apps</strong> with clean code and great user experience.<br>
-  Currently diving deeper into <strong>React</strong> & <strong>Next.js</strong> 🌱<br><br>
-  💬 Ask me about <strong>MERN stack, Python, full-stack development</strong><br>
-  ⚡ Fun fact: <em>I’m funny… at least my code thinks so 😂</em>
+  Building scalable web applications with modern JavaScript technologies.<br>
+  Focused on clean architecture, performance, and user-centric design.
 </p>
 
-<!-- Tech Stack - better alignment + popular icons -->
-<h3 align="center">🛠 Languages & Tools</h3>
+<!-- About / Currently -->
+<div align="center">
+  <h3>Currently</h3>
+  <p>Deepening expertise in <strong>React</strong>, <strong>Next.js</strong>, and full-stack best practices.</p>
+  
+  <h3>Ask me about</h3>
+  <p>MERN Stack • Node.js • Express • MongoDB • REST/GraphQL APIs • Python</p>
+</div>
+
+<!-- Tech Stack -->
+<h3 align="center">Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs,nodejs,express,mongodb,mysql,firebase,git,figma,androidstudio" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase,git,github,vscode,figma" alt="Tech Stack Icons"/>
+</p>
+
+<!-- Stats - Professional layout -->
+<h3 align="center">GitHub Activity</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=twahidulislamdev&show_icons=true&theme=radical&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=twahidulislamdev&show_icons=true&theme=radical&layout=compact&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" height="180"/>
+</div>
+
+<div align="center">
   <br>
-  <img src="https://skillicons.dev/icons?i=python,vscode,github" alt="Extras" />
-</p>
-
-<!-- Stats section - more dynamic & attractive -->
-<h3 align="center">🔥 GitHub Stats</h3>
-
-<div align="center">
-  <!-- Streak (you already have it - kept) -->
-  <img src="https://streak-stats.demolab.com?user=twahidulislamdev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=10" height="180" alt="GitHub Streak" />
-  
-  <!-- Add these popular ones for more impact -->
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=twahidulislamdev&show_icons=true&theme=dark&hide_border=true&border_radius=10" alt="GitHub Stats" height="180" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=twahidulislamdev&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&border_radius=10" alt="Top Languages" height="180" />
+  <img src="https://streak-stats.demolab.com?user=twahidulislamdev&theme=radical&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="180"/>
 </div>
 
-<!-- Optional: Add a trophy section for fun -->
-<h3 align="center">🏆 GitHub Trophies</h3>
+<!-- Optional Trophies (professional touch) -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=twahidulislamdev&theme=dark&no-frame=true&margin-w=15" alt="Trophies" />
+  <h3>Highlights</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=twahidulislamdev&theme=radical&no-frame=true&margin-w=15&row=1&column=6" alt="GitHub Trophies"/>
 </div>
 
-<!-- Footer / Call to action -->
+<!-- Footer -->
 <br>
 <div align="center">
-  <h3>Let's connect & build something awesome! 🚀</h3>
-  <p>Feel free to explore my repositories or drop a message — I'm always open to collaboration! 😄</p>
+  <p>📫 Open to full-time opportunities, freelance projects, and interesting collaborations in web development.</p>
+  <p>Let's connect on <strong>LinkedIn</strong> for professional discussions.</p>
 </div>
