@@ -1,180 +1,106 @@
+<!-- Hero Header - Modern Typing SVG with Gradient Colors -->
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4500&pause=1200&color=A78BFA&center=true&vCenter=true&width=500&height=70&lines=Hey+There!;Twahidul+Islam;MERN+Full-Stack+Developer;Dhaka,+Bangladesh" alt="Typing SVG" />
+  <br><br>
+  <h3>🚀 Crafting Scalable, Performant Web Experiences in 2026</h3>
+  <p>Building modern apps with Next.js, TypeScript, and clean architecture.</p>
 </div>
-###
-###
+
+<!-- Social Badges - Flat & Premium -->
 <div align="center">
-  <a href="https://fb.com/twahidulislamdev" target="blank"
-    ><img align="center" />
-    <img
-      href="https://fb.com/twahidulislamdev"
-      target="_blank"
-      src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat"
-      height="25"
-      alt="facebook logo"
-    />
+  <a href="https://www.linkedin.com/in/twahidulislamdev-july2005">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/twahidulislamdev" target="blank"
-    ><img align="center" />
-    <img
-      href="https://instagram.com/twahidulislamdev"
-      target="_blank"
-      src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat"
-      height="25"
-      alt="instagram logo"
-    />
+  <a href="https://twitter.com/twahidulislam">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" height="28" alt="Twitter"/>
   </a>
-  <a href="https://twitter.com/twahidulislam" target="blank"
-    ><img align="center" />
-    <img
-      href="https://twitter.com/twahidulislam"
-      target="_blank"
-      src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat"
-      height="25"
-      alt="twiter logo"
-    />
+  <a href="https://fb.com/twahidulislamdev">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" height="28" alt="Facebook"/>
   </a>
-  <a href="https://linkedin.com/in/twahidulislamdev-july2005" target="blank"
-    ><img align="center" />
-    <img
-      href="https://linkedin.com/in/twahidulislamdev-july2005"
-      target="_blank"
-      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat"
-      height="25"
-      alt="Linkedin logo"
-    />
+  <a href="https://instagram.com/twahidulislamdev">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="28" alt="Instagram"/>
   </a>
-  <a href="https://t.me/Twahidulislam" target="blank"
-    ><img align="center" />
-    <img
-      href="https://t.me/Twahidulislam"
-      target="_blank"
-      src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat"
-      height="25"
-      alt="Telegram logo"
-    />
+  <a href="https://t.me/Twahidulislam">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" height="28" alt="Telegram"/>
   </a>
-  <a
-    href="https://mail.google.com/mail/u/0/?to=twahid746@gmail.com&fs=1&tf=cm"
-    target="blank"
-    ><img align="center" />
-    <img
-      href="https://mail.google.com/mail/u/0/?to=twahid746@gmail.com&fs=1&tf=cm"
-      target="_blank"
-      src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat"
-      height="25"
-      alt="gmail logo"
-    />
+  <a href="mailto:twahid746@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="28" alt="Gmail"/>
   </a>
+  <br><br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=twahidulislamdev.twahidulislamdev&right_color=gray&left_text=Profile+Views" alt="Views"/>
 </div>
-###
+
+<!-- Spotlight: Currently Building -->
 <div align="center">
-  <img
-    src="https://visitor-badge.laobi.icu/badge?page_id=twahidulislamdev.twahidulislamdev&"
-  />
+  <h3>🌟 Spotlight: What I'm Building in 2026</h3>
+  <details open>
+    <summary>Current Focus & Side Projects</summary>
+    <br>
+    <ul align="left">
+      <li>🛒 Next.js 15 App Router E-commerce Dashboard (TS, Tailwind, Prisma, Server Actions)</li>
+      <li>📱 React Native + Expo Mobile Prototype with Firebase Auth & Push</li>
+      <li>💻 MERN SaaS Boilerplate (Stripe Subscriptions, Auth, Dashboard)</li>
+      <li>🔧 Exploring tRPC + Zod for end-to-end type safety</li>
+    </ul>
+  </details>
 </div>
-###
-<h1 align="center">
-  Hi 👋, I'm Twahidul Islam
-</h1>
-###
-<h3 align="center">👩‍💻 About Me</h3>
-<h4 align="center">
-  A passionate MERN Stack Developer from Bangladesh.⚓⚓<br /><br />- 🔭 🌱 I’m currently learning **React, Next.js** <br/> <br>- 💬 Ask me about **MERN, Python** <br /> <br> -⚡
-  ⚡ Fun fact **I am funny**
-</h4>
-###
-<br/>
-<h3 align="center">🛠 Language and tools</h3>
-###
+
+<!-- Tech Arsenal - Categorized & Aesthetic -->
+<h3 align="center">🛠 Tech Arsenal</h3>
+<table align="center" cellpadding="10">
+  <tr>
+    <td align="center" width="33%">
+      <b>Frontend</b><br>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css,js" alt="Frontend"/>
+    </td>
+    <td align="center" width="33%">
+      <b>Backend & DB</b><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql,python" alt="Backend"/>
+    </td>
+    <td align="center" width="33%">
+      <b>Tools & Others</b><br>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Tools"/>
+    </td>
+  </tr>
+</table>
+
+<!-- GitHub Insights - Radical/Dracula Mix for 2026 Aesthetic -->
+<h3 align="center">📊 GitHub Insights</h3>
 <div align="center">
-  <img
-    src="https://cdn.simpleicons.org/git/F05032"
-    height="40"
-    alt="git logo"
-  />
-  <img width="12" />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
-    height="40"
-    alt="figma logo"
-  />
-  <img width="12" />
-  <img
-    src="https://skillicons.dev/icons?i=html"
-    height="40"
-    alt="html5 logo"
-  />
-  <img width="12" />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-    height="40"
-    alt="css3 logo"
-  />
-  <img width="12" />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"
-    height="40"
-    alt="tailwindcss logo"
-  />
-  <img width="12" />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
-    height="40"
-    alt="bootstrap logo"
-  />
-  <img width="12" />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-    height="40"
-    alt="javascript logo"
-  />
-  <img width="12" />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-    height="40"
-    alt="react logo"
-  />
-  <img width="12" />
-  <img
-    src="https://skillicons.dev/icons?i=nextjs"
-    height="40"
-    alt="nextjs logo"
-  />
-  <img width="12" />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"
-    height="40"
-    alt="firebase logo"
-  />
-  <img width="12" />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-    height="40"
-    alt="nodejs logo"
-  />
-  <img width="12" />
-  <img
-    src="https://skillicons.dev/icons?i=express"
-    height="40"
-    alt="express logo"
-  />
-  <img width="12" />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-    height="40"
-    alt="mongodb logo"
-  />
-  <img width="12" />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-    height="40"
-    alt="mysql logo"
-  />
-  <img width="12" />
-  <img
-    src="https://cdn.simpleicons.org/android/3DDC84"
-    height="40"
-    alt="android logo"
-  />
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=twahidulislamdev&show_icons=true&theme=dracula&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" width="48%" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=twahidulislamdev&layout=compact&theme=dracula&hide_border=true&border_radius=12&langs_count=8" width="40%" alt="Top Languages"/>
+</div>
+<div align="center">
+  <br>
+  <img src="https://streak-stats.demolab.com?user=twahidulislamdev&theme=dracula&hide_border=true&border_radius=12" width="60%" alt="Streak"/>
+</div>
+<div align="center">
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=twahidulislamdev&theme=dracula&no-frame=true&margin-w=15&row=1&column=6" alt="Trophies"/>
+</div>
+
+<!-- Personality Section -->
+<div align="center">
+  <h3>✨ A Bit About Me</h3>
+  <blockquote>
+    <p>☕ Powered by late-night coffee & clean code<br>
+    🎮 Unwinding with Valorant after long coding flows<br>
+    📚 Re-reading "Clean Code" because why not?<br>
+    🌙 True night owl — mornings are overrated</p>
+  </blockquote>
+</div>
+
+<!-- CTA -->
+<div align="center">
+  <br>
+  <img src="https://img.shields.io/badge/Open+to+Collaboration-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's Connect"/>
+  <br><br>
+  <p><strong>Freelance • Full-Time Roles • Mentorship • Open Source Collabs</strong></p>
+  <p>Reach out on LinkedIn, Twitter, or email: twahid746@gmail.com</p>
+</div>
+
+<!-- Quote -->
+<div align="center">
+  <br>
+  <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+</div>
