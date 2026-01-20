@@ -59,7 +59,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=twahidulislamdev&show_icons=true&theme=dracula&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" width="48%" alt="Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=twahidulislamdev&layout=compact&theme=dracula&hide_border=true&border_radius=10&langs_count=8" width="40%" alt="Top Languages"/>
 </div>
-<div align="center"> <img src="https://streak-stats.demolab.com?user=twahidulislamdev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" /> </div>
+<img src="https://streak-stats.demolab.com?user=twahidulislamdev&theme=radical&hide_border=true&border_radius=10" height="180" />
 
 
 <!-- Personality – Restrained & Tasteful -->
