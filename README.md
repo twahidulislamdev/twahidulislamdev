@@ -57,14 +57,10 @@
 <h3 align="center">GitHub Activity</h3>
 
 <div align="center">
-  <img width=390 height="180" src="https://github-readme-stats.vercel.app/api?username=twahidulislamdev&show_icons=true&theme=dracula&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" 
-       height="180" 
-       alt="Stats"/>
-  <img width=390 height="185" src="https://streak-stats.demolab.com?user=twahidulislamdev&theme=dracula&hide_border=true&border_radius=10" 
-        
-       alt="GitHub Contribution Streak" />
+  <img width=390 height="180" src="https://github-readme-stats.vercel.app/api? username=twahidulislamdev&show_icons=true&theme=dracula&hide_border=true&border_radius=10&include_all_commits=true&count_private=true"alt="Stats"/>
+  <img width=390 height="195" src="https://streak-stats.demolab.com?user=twahidulislamdev&theme=dracula&hide_border=true&border_radius=10" 
+         alt="GitHub Contribution Streak" />
 </div>
-
 <div align="center">
   <br>
   <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=twahidulislamdev&layout=compact&theme=dracula&hide_border=true&border_radius=10&langs_count=8" 
