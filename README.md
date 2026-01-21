@@ -60,16 +60,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=twahidulislamdev&show_icons=true&theme=dracula&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" 
        height="180" width="48%"
        alt="Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=twahidulislamdev&layout=compact&theme=dracula&hide_border=true&border_radius=10&langs_count=8" 
+  <img src="https://streak-stats.demolab.com?user=twahidulislamdev&theme=dracula&hide_border=true&border_radius=10" 
        height="180" 
-       alt="Top Languages"/>
+       alt="GitHub Contribution Streak" />
 </div>
 
 <div align="center">
   <br>
-  <img src="https://streak-stats.demolab.com?user=twahidulislamdev&theme=dracula&hide_border=true&border_radius=10" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=twahidulislamdev&layout=compact&theme=dracula&hide_border=true&border_radius=10&langs_count=8" 
        height="180" 
-       alt="GitHub Contribution Streak" />
+       alt="Top Languages"/>
 </div>
 
 <!-- Personality – Restrained & Tasteful -->
