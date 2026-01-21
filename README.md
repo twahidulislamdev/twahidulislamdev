@@ -55,13 +55,20 @@
 
 <!-- Insights – Dracula Theme for Sophisticated Dark Aesthetic -->
 <h3 align="center">GitHub Activity</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=twahidulislamdev&show_icons=true&theme=dracula&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" width="48%" alt="Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=twahidulislamdev&layout=compact&theme=dracula&hide_border=true&border_radius=10&langs_count=8" width="48%" alt="Top Languages"/>
+
+<div align="center" style="display: flex; justify-content: center; gap: 16px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=twahidulislamdev&show_icons=true&theme=dracula&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" 
+       height="195" 
+       alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=twahidulislamdev&layout=compact&theme=dracula&hide_border=true&border_radius=10&langs_count=8" 
+       height="195" 
+       alt="Top Languages"/>
 </div>
-<div align="center">
-  <br>
-  <img src="https://streak-stats.demolab.com?user=twahidulislamdev&theme=dracula&hide_border=true&border_radius=10" height="180" alt="GitHub Contribution Streak" />
+
+<div align="center" style="margin-top: 16px;">
+  <img src="https://streak-stats.demolab.com?user=twahidulislamdev&theme=dracula&hide_border=true&border_radius=10" 
+       height="195" 
+       alt="GitHub Contribution Streak" />
 </div>
 
 
