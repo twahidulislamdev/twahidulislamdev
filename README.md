@@ -58,10 +58,10 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=twahidulislamdev&show_icons=true&theme=dracula&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" 
-       height="190" 
+       height="180" 
        alt="Stats"/>
   <img src="https://streak-stats.demolab.com?user=twahidulislamdev&theme=dracula&hide_border=true&border_radius=10" 
-       height="190" 
+       height="180" 
        alt="GitHub Contribution Streak" />
 </div>
 
