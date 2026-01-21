@@ -61,7 +61,7 @@
        height="180" width="48%"
        alt="Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=twahidulislamdev&layout=compact&theme=dracula&hide_border=true&border_radius=10&langs_count=8" 
-       height="180" width="48%"
+       height="180" 
        alt="Top Languages"/>
 </div>
 
