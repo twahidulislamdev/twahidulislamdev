@@ -1,4 +1,4 @@
-<!-- Elegant Hero with Refined Typing SVG -->
+ <!-- Elegant Hero with Refined Typing SVG -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=5000&pause=1500&color=A78BFA&center=true&vCenter=true&width=520&height=70&lines=Twahidul+Islam;Full-Stack+MERN+Developer;Dhaka%2C+Bangladesh;Crafting+Scalable+Web+Experiences" alt="Elegant Typing" />
   <br><br>
@@ -55,10 +55,9 @@
 
 <!-- Insights – Dracula Theme for Sophisticated Dark Aesthetic -->
 <h3 align="center">GitHub Activity</h3>
-
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api username=twahidulislamdev&show_icons=true&theme=dracula&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" 
-       height="180" width=390
+       height="180" width="390"
        alt="Stats"/>
   <img width=390 height="195" src="https://streak-stats.demolab.com?user=twahidulislamdev&theme=dracula&hide_border=true&border_radius=10" 
          alt="GitHub Contribution Streak" />
