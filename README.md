@@ -1,9 +1,26 @@
  <!-- Elegant Hero with Refined Typing SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=5000&pause=1500&color=A78BFA&center=true&vCenter=true&width=520&height=70&lines=Twahidul+Islam;Full-Stack+MERN+Developer;Dhaka%2C+Bangladesh;Crafting+Scalable+Web+Experiences" alt="Elegant Typing" />
-  <br><br>
-  <h3>Building performant, maintainable applications with modern JavaScript ecosystems.</h3>
-  <p>Focused on clean code, type safety, and exceptional user experiences.</p>
+  <!-- Animated Typing Intro -->
+<img 
+  src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=36&duration=4200&pause=1000&color=C084FC&center=true&vCenter=true&width=620&height=90&lines=Hi+there!+✨;I'm+Twahidul+Islam;Full-Stack+MERN+Developer;Based+in+Dhaka%2C+Bangladesh"
+  alt="Twahidul Islam - Bold Typing Animation"
+/>
+<!-- Tagline -->
+<div align="center" style="padding: 0 10px;">
+  <hr style="border: none; height: 3px; background: linear-gradient(to right, #a78bfa, #c084fc, #a78bfa); border-radius: 3px; opacity: 0.7; margin: 28px 0;" />
+
+  <p>
+    🔭 I’m deeply passionate about writing <strong>clean, efficient, maintainable</strong> code.<br>
+    I love turning complex problems into elegant, user-friendly solutions using modern web technologies.<br>
+    Constant learning, thoughtful design decisions, and pushing the boundaries of what’s possible drive me every day.<br>
+    For me, code isn’t just work — it’s my favorite way to <strong>create</strong>.
+  </p>
+
+  <p>
+    ⚡ <strong>Fun fact:</strong> You're a human being ✨ (and probably smiling right now 😏)
+  </p>
+
+  <hr style="border: none; height: 3px; background: linear-gradient(to right, #a78bfa, #c084fc, #a78bfa); border-radius: 3px; opacity: 0.7; margin: 28px 0;" />
 </div>
 
 <!-- Refined Social Links – Flat-Square for Elegance -->
@@ -55,17 +72,22 @@
 
 <!-- Insights – Dracula Theme for Sophisticated Dark Aesthetic -->
 <h3 align="center">GitHub Activity</h3>
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api username=twahidulislamdev&show_icons=true&theme=dracula&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" 
-       height="180" width="390"
-       alt="Stats"/>
-  <img width=390 height="195" src="https://streak-stats.demolab.com?user=twahidulislamdev&theme=dracula&hide_border=true&border_radius=10" 
-         alt="GitHub Contribution Streak" />
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <!-- Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=twahidulislamdev&show_icons=true&theme=dracula&hide_border=true&border_radius=10&include_all_commits=true&count_private=true"
+       width="390" height="195"
+       alt="GitHub Stats"/>
+    <!-- Streak Card -->
+  <img src="https://streak-stats.demolab.com?user=twahidulislamdev&theme=dracula&hide_border=true&border_radius=10"
+       width="390" height="310"
+       alt="GitHub Contribution Streak"/>
 </div>
-<div align="center">
-  <br>
-  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=twahidulislamdev&layout=compact&theme=dracula&hide_border=true&border_radius=10&langs_count=8" 
-       height="180" 
+
+<div align="center" style="margin-top: 20px;">
+ <!-- Top Languages -->
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=twahidulislamdev&layout=compact&theme=dracula&hide_border=true&border_radius=10&langs_count=8"
+       width="700" height="195"
        alt="Top Languages"/>
 </div>
 
