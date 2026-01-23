@@ -95,20 +95,20 @@
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <!-- Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=twahidulislamdev&show_icons=true&theme=dracula&hide_border=true&border_radius=10&include_all_commits=true&count_private=true"
-       width="390" height="195"
-       alt="GitHub Stats"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=twahidulislamdev&show_icons=true&theme=dracula&hide_border=true&border_radius=10&include_all_commits=true&count_private=true"
+       width="390"
+       height="195"
+       alt="Stats"/>
     <!-- Streak Card -->
   <img src="https://streak-stats.demolab.com?user=twahidulislamdev&theme=dracula&hide_border=true&border_radius=10"
-       width="390" height="310"
+       width="390" height="195"
        alt="GitHub Contribution Streak"/>
 </div>
-
 <div align="center" style="margin-top: 20px;">
  <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=twahidulislamdev&layout=compact&theme=dracula&hide_border=true&border_radius=10&langs_count=4&hide=typescript,python,java,c,cpp,c%23,php,ruby,go,rust,swift,kotlin,dart,shell&exclude_repo=repo1,repo2"
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=twahidulislamdev&layout=compact&theme=dracula&hide_border=true&border_radius=10&langs_count=4"
      width="700" height="195"
-     alt="Top Languages"/>
+     alt="Top Languages - HTML, CSS, JavaScript & Others"/>
 </div>
 
 <!-- Personality – Restrained & Tasteful -->
