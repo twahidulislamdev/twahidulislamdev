@@ -3,7 +3,7 @@
  <!-- Elegant Hero with Refined Typing SVG -->
   <!-- Animated Typing Intro -->
 <div align="center">
-<img 
+<img
   src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=36&duration=4200&pause=1000&color=ff6e96&center=true&vCenter=true&width=620&height=90&lines=Hi+There!+✨;I'm+Twahidul+Islam;Full-Stack+MERN+Developer;Based+In+Dhaka%2C+Bangladesh"
   alt="Twahidul Islam - Bold Typing Animation"
 />
@@ -21,11 +21,8 @@
 </p>
   ✨📝Fun fact: My commit messages tell better stories than my diary ever did.📝✨
 </p>
-
-
   <hr style="border: none; height: 3px; background: linear-gradient(to right, #a78bfa, #c084fc, #a78bfa); border-radius: 3px; opacity: 0.7; margin: 28px 0;" />
 </div>
-
 <!-- Refined Social Links – Flat-Square for Elegance -->
 <div align="center">
   <h3>Where to Find Me</h3>
@@ -48,7 +45,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
-
 <!-- Spotlight – Subtle & Professional -->
 <!-- Current Focus -->
 <div align="center">
@@ -66,7 +62,6 @@
     </tr>
   </table>
 </div>
-
 <!-- Tech Arsenal – Clean, Categorized, Minimal -->
 <h3 align="center">Tech Stack</h3>
 <table align="center" cellpadding="12">
@@ -89,28 +84,25 @@
     </td>
   </tr>
 </table>
-
 <!-- Insights – Dracula Theme for Sophisticated Dark Aesthetic -->
 <h3 align="center">GitHub Activity</h3>
-
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <!-- Stats Card -->
- <img src="https://github-readme-stats.vercel.app/api?username=twahidulislamdev&show_icons=true&theme=dracula&hide_border=true&border_radius=10&include_all_commits=true&count_private=true"
+  <img src="https://github-readme-stats.vercel.app/api?username=twahidulislamdev&show_icons=true&theme=dracula&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&cache_seconds=1800"
        width="370"
        height="195"
        alt="Stats"/>
-    <!-- Streak Card -->
+  <!-- Streak Card -->
   <img src="https://streak-stats.demolab.com?user=twahidulislamdev&theme=dracula&hide_border=true&border_radius=10"
        width="370" height="195"
        alt="GitHub Contribution Streak"/>
 </div>
 <div align="center" style="margin-top: 20px;">
- <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=twahidulislamdev&layout=compact&theme=dracula&hide_border=true&border_radius=10&langs_count=4"
-     width="400" height="195"
-     alt="Top Languages - HTML, CSS, JavaScript & Others"/>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twahidulislamdev&layout=compact&theme=dracula&hide_border=true&border_radius=10&langs_count=4&cache_seconds=1800"
+       width="400" height="195"
+       alt="Top Languages - HTML, CSS, JavaScript & Others"/>
 </div>
-
 <!-- Personality – Restrained & Tasteful -->
 <div align="center">
   <h3>A Note</h3>
@@ -119,4 +111,3 @@
     Balancing deep-focus coding sessions with strategic downtime.</p>
   </blockquote>
 </div>
-
